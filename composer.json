@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "erusev/parsedown": "^1.7"
+    }
+}
